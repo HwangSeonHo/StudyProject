@@ -2,9 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Monster : Character {
-
-	private Item[] dropList;
+public class ItemInfo : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
