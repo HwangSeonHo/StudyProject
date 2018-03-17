@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameMap : System {
+public class GameMap : MainSystem {
 
 	// Use this for initialization
 	void Start () {

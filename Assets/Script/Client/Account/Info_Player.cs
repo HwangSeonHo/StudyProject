@@ -26,6 +26,7 @@ public class Info_Player {
 	private Player_Inventory inventory;		//가방
 
 	private float getStandardAbility(){
+		return 0;
 	}
 
 
